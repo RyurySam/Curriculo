@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <title>Currículo</title>
+        <style>
+            h1{
+                text-align: center; color: rgb(1, 109, 49); background-color: black; font-size: 70px;
+            }
+            p{
+                text-align: center; color: rgb(161, 2, 2); background-color: black; font-size: 18px; font-family: Arial, Helvetica, sans-serif;
+            }
+        
+        </style>
+    </head>
+    <body>
+        <h1>Seria seu pai um Alienígena?</h1>
+        <p>Descubra agora a verdade clicando no vídeo CENSURADO abaixo!</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=JtCMDpOrvsfo08gL" title="A VERDADE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"
+    </body>
+</html>
